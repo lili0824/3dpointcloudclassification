@@ -22,22 +22,22 @@ It aims to:
 ### Code
 Testing notebooks are located in the Test folder:  
 Test/  
-├── DGCNN_final/  
-│   └── dgcnn_test.ipynb  
-├── PointNet2_final/  
-│   └── pointnet2_test.ipynb  
+|--- DGCNN_final/  
+     └── dgcnn_test.ipynb  
+|--- PointNet2_final/  
+     └── pointnet2_test.ipynb  
 
 ### Data
 All required data are stored in the Data_share folder: 
 Data_share/  
-├── DGCNN/  
-├── PointNet2/  
-└── Independent_tests/  
+|--- DGCNN/  
+|--- PointNet2/  
+|--- Independent_tests/  
 
 ### Analysis
 Analysis notebook is stored in the Analysis folder:  
 Analysis/  
-├── analysis.ipynb   
+|--- analysis.ipynb   
 
 ## ⚙️ Output Directory Setup
 For both notebooks, set:  
