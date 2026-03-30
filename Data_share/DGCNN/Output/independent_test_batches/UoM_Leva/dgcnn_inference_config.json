@@ -1,0 +1,52 @@
+{
+  "input_folder": "/Users/lili/Library/CloudStorage/Dropbox/Projects/Machine_Learning/Data_share/Independent_tests/UoM_Leva",
+  "kfold_results_dir": "/Users/lili/Library/CloudStorage/Dropbox/Projects/Machine_Learning/Data_share/DGCNN/Output/training",
+  "k_folds": 5,
+  "num_classes": 3,
+  "class_names": {
+    "Discoide": 0,
+    "Levallois": 1,
+    "Laminaire": 2
+  },
+  "npoints": 1024,
+  "normalize": true,
+  "batch_size": 32,
+  "run_individual_models": false,
+  "run_aggregation": true,
+  "aggregate_methods": [
+    "averaging"
+  ],
+  "total_samples": 68,
+  "model_defaults": {
+    "k": 20,
+    "emb_dims": 1024,
+    "dropout": 0.5
+  },
+  "model_configs": {
+    "fold_1": {
+      "k": 20,
+      "emb_dims": 1024,
+      "dropout": 0.5
+    },
+    "fold_2": {
+      "k": 20,
+      "emb_dims": 1024,
+      "dropout": 0.5
+    },
+    "fold_3": {
+      "k": 20,
+      "emb_dims": 1024,
+      "dropout": 0.5
+    },
+    "fold_4": {
+      "k": 20,
+      "emb_dims": 1024,
+      "dropout": 0.5
+    },
+    "fold_5": {
+      "k": 20,
+      "emb_dims": 1024,
+      "dropout": 0.5
+    }
+  }
+}
