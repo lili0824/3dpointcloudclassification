@@ -51,7 +51,7 @@ Outputs are saved in:
 
 Includes:  
 - Batch predictions  
-- HTML visualizations  
+- HTML visualizations - recommend opening with Firefox
 - Critical point analysis results  
 
 ## ▶️ Run Control Settings
