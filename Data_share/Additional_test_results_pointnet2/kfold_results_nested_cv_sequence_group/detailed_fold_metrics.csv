@@ -1,0 +1,2 @@
+fold,train_samples,val_samples,val_accuracy,val_balanced_accuracy,val_precision,val_recall,val_f1,val_class_0_accuracy,val_class_1_accuracy,val_class_2_accuracy
+1,806,201,0.611940299,0.585059636,0.672922684,0.611940299,0.630727612,0.644067797,0.611111111,0.5
